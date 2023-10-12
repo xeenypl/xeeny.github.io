@@ -1,0 +1,31 @@
+body {
+    position: relative;
+    background: #211a1a;
+    color: #e3d7bf;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+pre {
+    background: #232927;
+}
+
+a:link {
+    color: #e16734;
+}
+
+a:visited {
+    color: #e16734;
+}
+
+a:hover {
+    color: #d18362;
+}
+
+a:active {
+    color: #e16734;
+}
+
+#logo {
+    font-size: 3rem;
+}
